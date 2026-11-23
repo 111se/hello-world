@@ -1,0 +1,31 @@
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志与临时文件
+*.log
+*.tmp
+temp/
+tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
